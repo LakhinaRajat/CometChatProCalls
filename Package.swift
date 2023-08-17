@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CometChatProCalls",
-            url: "https://library.cometchat.io/ios/spm/Calls/CometChatProCalls_3_0_2.xcframework.zip",
+            url: "https://github.com/LakhinaRajat/CometChatProCallsFramework/raw/main/CometChatProCalls_3_0_2.xcframework.zip",
             checksum: "624ea38f0bb8ca8ec8edd6b80772b62b2a338e6a523e3898e701456dfd5e2324"
         )
     ]
